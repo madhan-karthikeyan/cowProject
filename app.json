@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6ff6810e-c673-4cd0-93aa-933c0426c642"
+      }
+    },
+    "android": {
+      "package": "com.madhankarthikeyan.livestockmanager"
+    }
+  }
+}
